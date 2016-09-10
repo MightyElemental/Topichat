@@ -1,0 +1,23 @@
+{
+  "name": "topichat-client",
+  "version": "1.0.0",
+  "description": "The client for Topichat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MightyElemental/Topichat.git"
+  },
+  "keywords": [
+    "chat",
+    "client"
+  ],
+  "author": "WolfgangTS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MightyElemental/Topichat/issues"
+  },
+  "homepage": "https://github.com/MightyElemental/Topichat#readme"
+}
